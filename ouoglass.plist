@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.gzar.cn/app/ouo/ouo0920GlaTest.ipa</string>
+					<string>http://www.gzar.cn/app/ouo/ouo1002.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zhangtianfu.gto0920Test</string>
+				<string>com.gzar.glassesApp</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
